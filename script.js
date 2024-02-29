@@ -39,4 +39,4 @@ for (let i=0; i<data.length; i++) {
 }
 
 // resultnya
-console.log(reg)
+console.log(res)
